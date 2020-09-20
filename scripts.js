@@ -15,7 +15,7 @@ console.log('a/b='+(a/b));
 console.log('a%b='+(a%b));
 console.log('Hola '+'usuario '+usuario);
 
-console.log(' ');
+console.log(' . ');
 console.log('Operadores incremento/decremento:');
 console.log('Post-incremento de a ((a++)+b): '+((a++)+b));
 console.log('Tras la operación a = '+a);
